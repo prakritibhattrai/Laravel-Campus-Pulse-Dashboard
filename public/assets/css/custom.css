@@ -1,0 +1,77 @@
+.table img{
+    height: 30px;
+    width: 35px;
+}
+.bootstrap-tagsinput .tag {
+    margin-right: 2px;
+    color: rgb(53, 50, 50);
+}
+.label-info{
+    background-color: rgb(229, 240, 240);
+    padding: 3px;
+}
+.search_display{
+    position: relative;
+    position: absolute;
+    display: block;
+    box-shadow: 1px 2px #b3adad;
+    /* z-index: 88888888888888888888888888; */
+    background: #d7e0f0;
+    background: white;
+    border: 1px solid #b5b2b2;
+    border-radius: 5px;
+    /* padding: 24px; */
+
+}
+.search_display ul{
+    padding: 0px 40px;
+    margin-top: 10px;
+}
+.search_display ul li{
+    list-style: none;
+    margin: 15px 0px;
+    border-bottom: 1px solid #f2f1f1;
+}
+.themeimage_background{
+    background: lightgray;
+    width: 65px;
+    height: 55px;
+}
+.themeimage_background img{
+    width: 65px;
+    height: 55px;
+    object-fit: contain!important;
+}
+.icon i{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: -65px;
+    cursor: pointer;
+}
+
+.single-article.feature-article .article-img img {
+    height: none!important;
+}
+.article-img img {
+    height: none!important;
+}
+
+#sidebar-menu ul li a i {
+    color: #6a7187;
+    font-size: 17px;
+}
+
+.gal_image{
+    padding: 10px;
+    border: 1px solid #cfcdcd;
+}
+.select{
+    border: 2px solid #374475;
+
+}
+.hoverbtn:hover
+{
+    background:white;
+    color: rgb(146, 143, 143);
+    border: 1px solid rgb(146, 143, 143);
+}

@@ -1,0 +1,16 @@
+git status shows changes 
+	red file to be added
+	green file has been added
+git add filepath
+git commit -m "description of the current changes"
+git fetch origin master:master 
+git rebase master 
+git push origin HEAD 
+
+git checkout branch name (switch branch 
+git checkout -b branch name (create new branch and switches to that branch)
+
+
+After rebase 
+1.If there is a con
+
